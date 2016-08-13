@@ -20,7 +20,7 @@ sudo apt-get install git
 ```
 
 # Parts Needed
-* Raspberry PI or Pi Zero
+* Raspberry PI or Pi Zero (This might require a USB adapter for audio or follow this tutorial on  [Adafruit](https://learn.adafruit.com/introducing-the-raspberry-pi-zero/audio-outputs))
 * Speaker - 3" Diameter - 4 Ohm 3 Watt - (https://www.adafruit.com/products/1314)
 * Adafruit Mono 2.5W Class D Audio Amplifier - (https://www.adafruit.com/products/2130)
 * Massive Arcade Button with LED - 100mm Green - (https://www.adafruit.com/products/1188)
