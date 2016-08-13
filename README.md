@@ -39,7 +39,7 @@ git clone https://github.com/eddieespinal/WinnerPicker.git winnerpicker
 ```
 
 * Edit the config.ini file and add your own values. You need to have an account with Mailchimp and a Newsletter setup for this script to work properly.
-* You should also setup your raspberry pi to automatically launch the script when it bootup. Todo so, you should follow the following steps:
+* You should also setup your raspberry pi to automatically launch the script when it boot up. Todo so, you should follow the following steps:
 * 1. Edit the /etc/profile file.  
 
 ```sh
